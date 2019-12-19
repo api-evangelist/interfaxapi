@@ -1,0 +1,97 @@
+{
+    "name": "InterFaxAPI",
+    "description": "Business-oriented internet fax service, enabling fax transmission and reception via email or API. PCI-DSS and HIPAA compliant.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3465-interfaxapi.jpg",
+    "tags": [
+        "api provider",
+        "faxes",
+        "have api",
+        "messages"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/interfaxapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "InterFaxAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3465-interfaxapi.jpg",
+            "humanURL": "http:\/\/www.interfax.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/rest.interfax.net\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.interfax.net\/interfax-blog\/en\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.interfax.net\/interfax-blog\/en\/interfax-blog-rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/interfaxus"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.interfax.net\/en\/dev"
+        },
+        {
+            "type": "Email",
+            "url": "au@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "eu@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "france@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@interfax.co.il"
+        },
+        {
+            "type": "Email",
+            "url": "italia@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "uk@interfax.net"
+        },
+        {
+            "type": "Email",
+            "url": "us@interfax.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/interfaxapi"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.interfax.net\/en\/prices"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/InterFaxNet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.interfax.net"
+        }
+    ]
+}
